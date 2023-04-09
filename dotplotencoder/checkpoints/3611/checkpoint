@@ -1,0 +1,2 @@
+model_checkpoint_path: "up_model"
+all_model_checkpoint_paths: "up_model"
